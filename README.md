@@ -44,4 +44,3 @@ main.R: the Shiny app
 # Acknowledgements
 
 This app was created using the shinydashboard package for Shiny by RStudio. It also uses the quantmod package for retrieving and manipulating financial data and the ggplot2 package for generating charts.
-# Data-Visualization-Mini-Project
